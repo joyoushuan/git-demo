@@ -9,4 +9,4 @@ hello huan! hello git!
 hello huan! hello git!
 hello huan! hello git!
 hello huan! hello git!
-hello huan! hello git!
+hello huan! hello git! hot-fix test
